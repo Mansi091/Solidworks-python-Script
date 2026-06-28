@@ -1,0 +1,18 @@
+# SolidWorks temporary, lock, and backup files
+~$*
+*.$*
+*.err
+*.log
+solidworks_pipeline.log
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system / IDE specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
